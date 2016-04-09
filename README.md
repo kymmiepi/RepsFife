@@ -1,7 +1,7 @@
 # RepsFife
 This is an area where the reps can brainstorm and add resources for existing and new reps. 
 
-We will post:
+**We will post:**
 
 *Resource links
 
@@ -13,7 +13,7 @@ We will post:
 
 *Work Related Policies and "good to knows"
 
-We will not post:
+**We will not post:**
 
 *Casework
 
